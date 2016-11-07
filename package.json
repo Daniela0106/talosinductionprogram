@@ -1,0 +1,22 @@
+{
+  "name": "talosinductionprogram",
+  "version": "1.0.0",
+  "description": "Application for new employees to get a closer look at Talos' workflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daniela0106/talosinductionprogram.git"
+  },
+  "keywords": [
+    "induction"
+  ],
+  "author": "Daniela0106",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daniela0106/talosinductionprogram/issues"
+  },
+  "homepage": "https://github.com/Daniela0106/talosinductionprogram#readme"
+}
