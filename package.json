@@ -18,5 +18,12 @@
   "bugs": {
     "url": "https://github.com/Daniela0106/talosinductionprogram/issues"
   },
-  "homepage": "https://github.com/Daniela0106/talosinductionprogram#readme"
+  "homepage": "https://github.com/Daniela0106/talosinductionprogram#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
 }
